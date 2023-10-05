@@ -1,16 +1,9 @@
 #!/usr/bin/env python3
+'''
+function add that takes two floats and returns their sum as a float.
+'''
 
-'''Function add that sums floats'''
 
 def add(a: float, b: float) -> float:
-    '''
-    Function that adds two floats
-
-    Args:
-            a (float): first number
-            b (float): second number
-
-    Returns:
-            float: the sum of the two args
-    '''
+    '''Returns the sum of the arguments'''
     return a + b
