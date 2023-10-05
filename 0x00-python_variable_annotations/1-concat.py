@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+'''Function add that concatenates strings'''
 
 
 def concat(str1: str, str2: str) -> str:
