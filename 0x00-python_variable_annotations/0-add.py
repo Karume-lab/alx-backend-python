@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
-"""Function add that sums floats"""
+'''Function add that sums floats'''
 
 def add(a: float, b: float) -> float:
-    """
+    '''
     Function that adds two floats
 
     Args:
@@ -12,5 +12,5 @@ def add(a: float, b: float) -> float:
 
     Returns:
             float: the sum of the two args
-    """
+    '''
     return a + b
