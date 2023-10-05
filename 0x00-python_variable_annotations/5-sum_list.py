@@ -2,7 +2,7 @@
 '''Function sum_list that sums floats in a list'''
 
 
-def sum_list(input_list: list) -> float:
+def sum_list(input_list: list[float]) -> float:
     '''
     Args:
         input_list (list): list of floats
