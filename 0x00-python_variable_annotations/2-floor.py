@@ -2,6 +2,7 @@
 '''Function floor that floors a float'''
 import math
 
+
 def floor(n: float) -> int:
 	'''
 	Args:
