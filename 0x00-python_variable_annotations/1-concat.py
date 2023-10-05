@@ -1,7 +1,13 @@
 #!/usr/bin/env python3
-'''Takes two strings and returns a concatenated string'''
 
 
-def concat(src: str, dest: str) -> str:
-    '''Concatenates two strings'''
-    return src + dest
+def concat(str1: str, str2: str) -> str:
+    '''
+    Args:
+            str1 (str): source string
+            str2 (str): destination string
+
+    Returns:
+            float: the sum of the two args
+    '''
+    return str1 + str2
