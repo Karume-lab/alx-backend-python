@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 '''Function sum_mixed_list that sums floats/integers in a list'''
 from typing import List, Union
-2
+
 
 def sum_mixed_list(mxd_list: List[Union[int, float]]) -> float:
     '''
