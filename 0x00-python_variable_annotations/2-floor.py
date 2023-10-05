@@ -1,14 +1,8 @@
 #!/usr/bin/env python3
-'''Function floor that floors a float'''
+'''Flooring ints and type annotations'''
 import math
 
 
 def floor(n: float) -> int:
-	'''
-	Args:
-		n (float): number to floor
-
-	Returns:
-		int: the floored number
-	'''
-	return  math.floor(n)
+    '''Returns a floored int'''
+    return math.floor(n)
