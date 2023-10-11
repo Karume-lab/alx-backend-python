@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+"""Import modules"""
 import random
 import asyncio
 from typing import Generator
